@@ -1,1 +1,0 @@
-git remote add origin https://github.com/arturoochoa06/Wi.git
